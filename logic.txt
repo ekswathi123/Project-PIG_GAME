@@ -1,0 +1,7 @@
+The players take chance in rolling the dice.
+The current score is intialised with 0 and gets updated on each roll of the dice.
+However, when the dice rolls to 1 , the current score is reverted to zero.
+The current score will be updated to the player score on each turn.
+The player can hold the current value and pass the chance to the next player.
+The player who first obtains the score >=100 wins the game.
+
